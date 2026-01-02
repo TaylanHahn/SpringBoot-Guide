@@ -1,4 +1,4 @@
-# Spring Boot | Básico ☕🌱
+# ☕🌱 | Básico 
 Foco em fundamentos, arquitetura de injeção de dependências e exposição REST básica.
 
 ## 1. Conceitos Fundamentais 💻
